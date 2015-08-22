@@ -9,6 +9,11 @@ body {
     width: 50%;
     height: 100%;
 }
+#right-container {
+    margin-right: 0px;
+    float: right;
+    height: 100%;
+}
 img {
     width: 150px;
     margin-left: -61px;
