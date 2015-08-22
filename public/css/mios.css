@@ -1,0 +1,81 @@
+body {
+    background-image: url('../img/fondo.jpg');
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+#left-container {
+    width: 50%;
+    height: 100%;
+}
+img {
+    width: 150px;
+    margin-left: -61px;
+}
+#logo {
+    text-align: center;
+    margin: 200px;
+    width: 100px;
+}
+h5 {
+    margin-left: -95px;
+    font-family: 'Exo', sans-serif;
+    color: rgba(255, 255, 255, 0.54);
+}
+h5 a {
+    color: darkturquoise;
+}
+div#logo {
+    width: 214px;
+    margin: 40% 38%;
+    display: inline-table;
+    margin-top: 167px;
+    position: relative;
+    height: 40%;
+    border-right: 1px groove white;
+    padding-right: 77px;
+}
+#btn-registrate {
+    font-family: 'Open Sans', sans-serif;
+    width: 258px;
+    height: 40px;
+    margin-top: 9px;
+    margin-left: -75px;
+    color: white;
+    border-radius: 50px;
+    background: none;
+    box-shadow: 8.1px 7.1px 11.1px -3px #59EDEB;
+    font-size: 12px;
+}
+#btn-registrate:hover {
+    
+    font-size: 13px;
+}
+#btn-facebook:hover {
+    
+    font-size: 13px;
+}
+#btn-facebook {
+    font-size: 12px;
+    width: 250px;
+    height: 40px;
+    margin-top: 30px;
+    margin-left: -75px;
+    color: white;
+    border-radius: 50px;
+    background: #39579B;
+    box-shadow: 8.1px 7.1px 11.1px -3px #59EDEB;
+}
+div#login {
+    font-family: 'Open Sans', sans-serif;
+    color: white;
+    font-size: 13px;
+    ;
+    margin-left: -102px;
+    border-top: 1px solid;
+    margin-top: 32px;
+    padding: 10px;
+    width: 275px;
+    height: 80px;
+}
