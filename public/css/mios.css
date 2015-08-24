@@ -1,9 +1,19 @@
+html.full{
+    
+    overflow-y: hidden;
+    overflow-x: scroll;
+    height: auto;
+    width: 1456px;
+    
+    
+}
 body {
     background-image: url('../img/fondo.jpg');
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
+    height: 100%;
 }
 #left-container {
     width: 50%;
@@ -35,11 +45,12 @@ div#logo {
     width: 214px;
     margin: 40% 38%;
     display: inline-table;
-    margin-top: 167px;
     position: relative;
     height: 40%;
     border-right: 1px groove white;
     padding-right: 77px;
+      margin-top: 97px;
+    margin-left: 130px;
 }
 #btn-registrate {
     font-family: 'Open Sans', sans-serif;
